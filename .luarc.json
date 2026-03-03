@@ -1,0 +1,8 @@
+{
+    "workspace": {
+        "ignoreDir": ["_old"]
+    },
+    "diagnostics.globals": [
+        "love"
+    ]
+}
